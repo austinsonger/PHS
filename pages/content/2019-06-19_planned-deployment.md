@@ -1,15 +1,16 @@
 ---
 title: Regular Friday Deployment - Hotfix
-date: '2019-06-19T22:02:11.038Z'
-scheduled: '2019-06-28T17:00:00.895Z'
+date: '2019-06-19T17:48:53.253Z'
+scheduled: '2019-06-21T17:00:00.895Z'
 severity: under-maintenance
-duration: 180
+duration: 120
 affectedsystems:
   - api
+  - cdn
   - dns
   - site-delivery
 resolved: false
 ---
-This is part of regular deplotment schedule.
+This is a regularly schedule deployment.
 
 <!--- language code: en -->

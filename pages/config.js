@@ -5,13 +5,21 @@ module.exports = {
   "defaultLocale": "en",
   "locales": [
     {
-      "code": "en",
-      "iso": "en-US",
-      "name": "English",
-      "file": "en.json"
+      code: "en",
+      iso: "en-US",
+      name: "English",
+      file: "en.json"
     }
   ],
   "content": {
-    "frontMatterFormat": "yaml"
-  }
+    "frontMatterFormat": "yaml",
+ /**     systems: [
+      "cdn",
+      "dns",
+      "helpdesk",
+      "site",
+      "api"
+      ]
+      **/
+}
 }
