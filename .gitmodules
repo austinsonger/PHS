@@ -1,6 +1,3 @@
-[submodule "pages/phs-platform.github.io"]
-	path = pages/phs-platform.github.io
-	url = https://github.com/phs-platform/phs-platform.github.io.git
 [submodule "pages/dist"]
 	path = pages/dist
 	url = https://github.com/phs-platform/phs-platform.github.io.git
