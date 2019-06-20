@@ -3,6 +3,11 @@ module.exports = {
   "name": "prevail_health_solutions_platform",
   "description": "Status Dashboard",
   "defaultLocale": "en",
+   "theme:": [
+    {
+      position: "aboveGlobalStatus",
+    }
+   ],
   "locales": [
     {
       code: "en",
@@ -10,6 +15,7 @@ module.exports = {
       name: "English",
       file: "en.json"
     }
+  
   ],
   "content": {
     "frontMatterFormat": "yaml",
