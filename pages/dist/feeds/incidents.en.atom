@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>/</id>
+    <title>Prevail Health Solutions Platform</title>
+    <updated>2019-06-20T14:32:56.039Z</updated>
+    <generator>Statusfy</generator>
+    <link rel="alternate" href="/"/>
+    <link rel="self" href="//feeds/incidents.en.atom"/>
+    <subtitle>Status Dashboard</subtitle>
+</feed>
